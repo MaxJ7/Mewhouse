@@ -1,0 +1,4 @@
+# Mewhouse - Mewgenics Room Optimizer
+# Python 3.8+ required
+# tkinter is included in the standard library but may need separate installation
+# on some Linux distributions: sudo apt-get install python3-tk
